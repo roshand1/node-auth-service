@@ -1,11 +1,11 @@
 const development = {
   awsRegion: 'us-east-1',
-  awsSecretsManagerName: 'cyb_workbench_cognito_keys'
+  awsSecretsManagerName: 'test'
 };
 
 const production = {
   awsRegion: 'us-east-1',
-  awsSecretsManagerName: 'cyb_workbench_cognito_keys'
+  awsSecretsManagerName: 'test'
 };
 
 module.exports =
